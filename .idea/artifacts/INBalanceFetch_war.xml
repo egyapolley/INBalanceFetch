@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="INBalanceFetch:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>INBalanceFetch</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="INBalanceFetch-1.0.war">
+      <element id="artifact" artifact-name="INBalanceFetch:war exploded" />
+    </root>
+  </artifact>
+</component>

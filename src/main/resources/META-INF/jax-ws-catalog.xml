@@ -1,0 +1,5 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"
+         prefer="system">
+    <system systemId="http://localhost/wsdl/Balance_Query.wsdl"
+            uri="wsdl/Balance_Query.wsdl" />
+</catalog>
